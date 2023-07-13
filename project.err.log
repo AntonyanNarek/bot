@@ -1,0 +1,1774 @@
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 11, in <module>
+    from config_data.config import load_config
+  File "/root/bot/config_data/config.py", line 3, in <module>
+    from environs import Env
+ModuleNotFoundError: No module named 'environs'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 15, in <module>
+    from utils.HonestBusinessAPI.asyncapi import HonesBusinessClient
+  File "/root/bot/utils/HonestBusinessAPI/asyncapi.py", line 3, in <module>
+    from utils.HonestBusinessAPI.base import BaseAsyncClient
+  File "/root/bot/utils/HonestBusinessAPI/base.py", line 3, in <module>
+    import httpx
+ModuleNotFoundError: No module named 'httpx'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 3, in <module>
+    import convertapi
+ModuleNotFoundError: No module named 'convertapi'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 12, in <module>
+    from handlers import users, apscheduler, apanel
+  File "/root/bot/handlers/users.py", line 17, in <module>
+    from utils.preparation import create_doc_plus
+  File "/root/bot/utils/preparation/create_doc_plus.py", line 4, in <module>
+    from docxtpl import DocxTemplate
+ModuleNotFoundError: No module named 'docxtpl'
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+Traceback (most recent call last):
+  File "/root/bot/bot.py", line 81, in <module>
+    asyncio.run(start_bot())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/root/bot/bot.py", line 26, in start_bot
+    config = load_config()
+  File "/root/bot/config_data/config.py", line 52, in load_config
+    token=env('BOT_TOKEN')
+  File "/usr/local/lib/python3.10/dist-packages/environs/__init__.py", line 116, in method
+    raise EnvError('Environment variable "{}" not set'.format(proxied_key or parsed_key))
+environs.EnvError: Environment variable "BOT_TOKEN" not set
+[2023-06-14 09:41:17,358][INFO]: file = base.py | func = add_job | name = apscheduler.scheduler | message =  Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-06-14 09:41:17,360][INFO]: file = base.py | func = _real_add_job | name = apscheduler.scheduler | message =  Added job "check_premium" to job store "default"
+[2023-06-14 09:41:17,360][INFO]: file = base.py | func = start | name = apscheduler.scheduler | message =  Scheduler started
+[2023-06-14 09:41:17,538][INFO]: file = dispatcher.py | func = start_polling | name = aiogram.dispatcher | message =  Start polling
+[2023-06-14 09:41:17,589][INFO]: file = dispatcher.py | func = _polling | name = aiogram.dispatcher | message =  Run polling for bot @ContractorVerificationBot id=6060534112 - 'Бот проверки контрагентов'
+[2023-06-14 09:41:26,827][WARNING]: file = dispatcher.py | func = _signal_stop_polling | name = aiogram.dispatcher | message =  Received SIGTERM signal
+[2023-06-14 09:41:26,829][INFO]: file = dispatcher.py | func = _polling | name = aiogram.dispatcher | message =  Polling stopped for bot @ContractorVerificationBot id=6060534112 - 'Бот проверки контрагентов'
+[2023-06-14 09:41:26,829][INFO]: file = dispatcher.py | func = start_polling | name = aiogram.dispatcher | message =  Polling stopped
+[2023-06-14 09:41:26,982][ERROR]: file = base_events.py | func = default_exception_handler | name = asyncio | message =  Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x7fdc9c773790>
+transport: <_SelectorSocketTransport closing fd=6>
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 916, in write
+    n = self._sock.send(data)
+OSError: [Errno 9] Bad file descriptor
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/sslproto.py", line 690, in _process_write_backlog
+    self._transport.write(chunk)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 922, in write
+    self._fatal_error(exc, 'Fatal write error on socket transport')
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 717, in _fatal_error
+    self._force_close(exc)
+  File "/usr/lib/python3.10/asyncio/selector_events.py", line 729, in _force_close
+    self._loop.call_soon(self._call_connection_lost, exc)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 750, in call_soon
+    self._check_closed()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 515, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2023-06-14 09:41:29,824][INFO]: file = base.py | func = add_job | name = apscheduler.scheduler | message =  Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2023-06-14 09:41:29,825][INFO]: file = base.py | func = _real_add_job | name = apscheduler.scheduler | message =  Added job "check_premium" to job store "default"
+[2023-06-14 09:41:29,825][INFO]: file = base.py | func = start | name = apscheduler.scheduler | message =  Scheduler started
+[2023-06-14 09:41:29,988][INFO]: file = dispatcher.py | func = start_polling | name = aiogram.dispatcher | message =  Start polling
+[2023-06-14 09:41:30,055][INFO]: file = dispatcher.py | func = _polling | name = aiogram.dispatcher | message =  Run polling for bot @ContractorVerificationBot id=6060534112 - 'Бот проверки контрагентов'
+[2023-06-14 09:41:37,913][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864311 is handled. Duration 654 ms by bot id=6060534112
+[2023-06-14 09:45:05,576][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864312 is handled. Duration 553 ms by bot id=6060534112
+[2023-06-14 09:45:16,800][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864313 is handled. Duration 307 ms by bot id=6060534112
+[2023-06-14 09:47:10,586][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864314 is handled. Duration 564 ms by bot id=6060534112
+[2023-06-14 09:47:16,177][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864315 is handled. Duration 187 ms by bot id=6060534112
+[2023-06-14 09:50:02,456][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864316 is handled. Duration 633 ms by bot id=6060534112
+[2023-06-14 09:50:06,470][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864317 is handled. Duration 238 ms by bot id=6060534112
+[2023-06-14 09:50:09,981][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864318 is handled. Duration 487 ms by bot id=6060534112
+[2023-06-14 09:50:16,337][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864319 is handled. Duration 2 ms by bot id=6060534112
+[2023-06-14 09:50:26,023][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864320 is not handled. Duration 2 ms by bot id=6060534112
+[2023-06-14 09:52:34,144][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/card?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=7736050003 "HTTP/1.1 200 OK"
+[2023-06-14 09:52:34,212][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/fns-card?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:52:36,667][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/proverki?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:52:38,831][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/court-arbitration?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:52:40,904][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/zakupki-top?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=7736050003 "HTTP/1.1 200 OK"
+[2023-06-14 09:52:43,006][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/fssp-list?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:52:43,248][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864321 is handled. Duration 9834 ms by bot id=6060534112
+[2023-06-14 09:52:49,491][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864322 is not handled. Duration 2 ms by bot id=6060534112
+[2023-06-14 09:53:10,821][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864323 is handled. Duration 603 ms by bot id=6060534112
+[2023-06-14 09:53:13,383][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864324 is handled. Duration 173 ms by bot id=6060534112
+[2023-06-14 09:53:19,459][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/card?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=7736050003 "HTTP/1.1 200 OK"
+[2023-06-14 09:53:19,650][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/fns-card?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:53:21,828][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/proverki?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:53:23,970][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/court-arbitration?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:53:26,043][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/zakupki-top?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=7736050003 "HTTP/1.1 200 OK"
+[2023-06-14 09:53:28,119][INFO]: file = _client.py | func = _send_single_request | name = httpx | message =  HTTP Request: GET https://zachestnyibiznesapi.ru/paid/data/fssp-list?api_key=uDYGQRahKJBttk8nEEsLkr5WIoNNF4QI&id=1027700070518 "HTTP/1.1 200 OK"
+[2023-06-14 09:53:28,318][INFO]: file = dispatcher.py | func = feed_update | name = aiogram.event | message =  Update id=285864325 is handled. Duration 9456 ms by bot id=6060534112

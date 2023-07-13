@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v={{ version }}">
+    <title>Логи</title>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <pre class="log-text">{{ log_content }}</pre>
+            <div class="button-container">
+                <button class="refresh-button" id="refresh-button" onclick="refreshPage()">Обновить</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function refreshPage() {
+            location.reload();
+        }
+    </script>
+
+</body>
+</html>

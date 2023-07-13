@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v={{ version }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <title>Логирование</title>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1 class="app-title">Логи</h1>
+            <div class="table-container">
+                <table class="log-table" id="log-table">
+                    <thead>
+                        <tr>
+                            <th>asctime</th>
+                            <th class="log-level-cell">
+                                <label for="filter-select">
+                                    <select id="filter-select" onchange="filterLogs()">
+                                        <option value="all">Все уровни</option>
+                                        <option value="INFO">INFO</option>
+                                        <option value="WARNING">WARNING</option>
+                                        <option value="ERROR">ERROR</option>
+                                    </select>
+                                </label>
+                            </th>
+                            <th>file</th>
+                            <th>func</th>
+                            <th class="log_user-cell">
+                                <label for="filter_id_select">
+                                    <select id="filter_id_select" onchange="filterID()">
+                                    <option value="all">Все ID</option>
+                                        {% for value in filter_id %}
+                                            <option value="{{ value }}">{{ value }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </label>
+                            </th>
+                            <th>message</th>
+                        </tr>
+                    </thead>
+                    <tbody id="log-table-body">
+                        {% for log in logs %}
+                        <tr class="log-{{ log[1] }}">
+                            <td>{{ log[0] }}</td>
+                            <td class="log-level">{{ log[1] }}</td>
+                            <td>{{ log[2] }}</td>
+                            <td>{{ log[3] }}</td>
+                            <td>{{ log[4] }}</td>
+                            <td>{{ log[5] }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="button-container">
+                <button class="refresh-button" id="refresh-button" onclick="refreshLogs()">Обновить</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

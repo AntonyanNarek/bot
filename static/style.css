@@ -1,0 +1,182 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    background-image: url('/static/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    opacity: 0.8;
+}
+
+.log-text {
+    max-width: 1000px;
+    max-height: 600px;
+    overflow-y: scroll;
+    white-space: pre-wrap;
+}
+
+.app-title {
+    color: #0088CC;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.refresh-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #0088CC;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.refresh-button:hover {
+    background-color: #00BFFF;
+}
+
+.table-container {
+    height: 75vh;
+    overflow-y: scroll;
+    position: relative;
+}
+
+.log-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.log-table thead {
+    background-color: #0088CC;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.log-table th,
+.log-table td {
+    padding: 12px;
+    text-align: left;
+    width: auto;
+}
+
+.log-table th:first-child,
+.log-table td:first-child {
+    width: 15%;
+}
+
+.log-table th:nth-child(2),
+.log-table td:nth-child(2) {
+    width: 10%;
+}
+
+.log-table th:nth-child(3),
+.log-table td:nth-child(3) {
+    width: 10%;
+}
+
+.log-table th:nth-child(4),
+.log-table td:nth-child(4) {
+    width: 20%;
+}
+
+.log-table th:nth-child(5),
+.log-table td:nth-child(5) {
+    width: 10%;
+}
+
+.log-table th:nth-child(6),
+.log-table td:nth-child(6) {
+    width: 30%;
+}
+
+.log-table thead {
+    background-color: #0088CC;
+    color: #fff;
+}
+
+.log-table tbody tr {
+    background-color: #f2f2f2;
+    border-bottom: 1px dotted #3b3939;
+}
+
+.log-table tbody tr:last-child {
+    border-bottom: none;
+}
+
+.log-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.log-INFO td {
+    background-color: #cee5ce;
+}
+
+.log-ERROR td {
+    background-color: #ea7d7d;
+}
+
+.log-WARNING td {
+    background-color: #eedf75;
+}
+
+#filter-select {
+    background-color: #0088CC;
+    color: #fff;
+    padding: 1px;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bold;
+}
+
+#filter-select option {
+    background-color: #0088CC;
+    color: #fff;
+}
+
+#filter_id_select {
+    background-color: #0088CC;
+    color: #fff;
+    padding: 1px;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bold;
+}
+
+#filter_id_select option {
+    background-color: #0088CC;
+    color: #fff;
+}
